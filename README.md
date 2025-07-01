@@ -18,11 +18,11 @@
 
     Implemented classification models to predict Primary use Class:
     
-        - Logistic Regression Decision Trees Random Forest Gradient Boosting (e.g., XGBoost or LightGBM) etc. Applied clustering techniques to group users based on device usage patterns:
+    - Logistic Regression Decision Trees Random Forest Gradient Boosting (e.g., XGBoost or LightGBM) etc. Applied clustering techniques to group users based on device usage patterns:
 
-        - K-Means Hierarchical Clustering DBSCAN Gaussian Mixture Models Spectral Clustering etc. Evaluate classification models using metrics like precision, recall, and accuracy.
+    - K-Means Hierarchical Clustering DBSCAN Gaussian Mixture Models Spectral Clustering etc. Evaluate classification models using metrics like precision, recall, and accuracy.
 
-        - Analyzed clustering performance using silhouette scores and visualization techniques.
+    - Analyzed clustering performance using silhouette scores and visualization techniques.
 
 6) **Application Development:**
 
